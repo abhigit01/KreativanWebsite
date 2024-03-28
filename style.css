@@ -336,7 +336,7 @@ html{
     background-color: whitesmoke;
     padding-top: 2rem;
     padding-left: 10rem;
-    /* padding-right: 6rem; */
+    gap: 1rem;
    
 }
 .footerbox{
