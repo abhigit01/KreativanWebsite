@@ -336,7 +336,6 @@ html{
     background-color: whitesmoke;
     padding-top: 2rem;
     padding-left: 10rem;
-    gap: 1rem;
    
 }
 .footerbox{
@@ -484,6 +483,8 @@ html{
         flex-wrap: wrap;
         padding-top: 2rem;
         padding-left: 6px;
+        gap: 1rem;
+
     }
 
 }
