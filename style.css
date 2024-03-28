@@ -242,6 +242,62 @@ html{
     /* background-color: yellow; */
 
 }
+.sectioncontainer {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 20vh;
+}
+.counternumbers{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* background-color: yellow; */
+}
+
+.numbers {
+    position: relative;
+    z-index: 1;
+    display: flex;
+    justify-content: center;
+    font-size: 80px;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke: 1px #005aac;
+}.semibold{
+    position: relative;
+    z-index: 2;
+    font-size: 1.5rem;
+    font-weight: 600;
+    top: -1.75rem;
+    background-color: #ffffff;
+}
+.ourblog{
+    height: 3rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 1rem;
+    /* background-color: red; */
+}
+.ourblog2{
+    width: 60%;
+    display: flex;
+    justify-content: space-around;
+    /* align-items: center; */
+    /* background-color: yellow; */
+    height: 2rem;
+}
+.linebox{
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+.lines{
+    width: 50rem;
+    /* height: 2px; */
+    border: 0.5px solid black;
+
+}
 @media (max-width : 1200px) {
     html{
         font-size: 16px;
