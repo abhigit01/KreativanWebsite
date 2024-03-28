@@ -283,7 +283,7 @@ html{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background-color: red;
+    /* background-color: red; */
 }
 .ourblog2{
     width: 60%;
@@ -410,7 +410,7 @@ html{
         padding-right: 8px;
     }
     .ourblog{
-        margin-top: -4rem;
+        margin-top: -5rem;
     }
 
 }
