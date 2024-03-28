@@ -329,7 +329,7 @@ html{
     background-color: grey;
 }
 .footer{
-    height: 40rem;
+    /* height: 40rem; */
     display: flex;
     /* align-items: center; */
     justify-content: space-evenly;
