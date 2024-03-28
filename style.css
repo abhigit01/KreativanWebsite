@@ -480,7 +480,7 @@ html{
     .footer{
         flex-wrap: wrap;
         padding-top: 2rem;
-        padding-left: 0px;
+        padding-left: 6px;
     }
 
 }
