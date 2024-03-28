@@ -283,8 +283,7 @@ html{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    margin-top: 1rem;
-    /* background-color: red; */
+    background-color: red;
 }
 .ourblog2{
     width: 60%;
@@ -410,10 +409,9 @@ html{
         padding-left: 8px;
         padding-right: 8px;
     }
-    .heading2{
-
+    .ourblog{
+        margin-top: -4rem;
     }
-
 
 }
 @media (max-width : 768px)
