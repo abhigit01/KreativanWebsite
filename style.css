@@ -260,7 +260,7 @@ html{
     z-index: 1;
     display: flex;
     justify-content: center;
-    font-size: 80px;
+    font-size: 5rem;
     -webkit-text-fill-color: transparent;
     -webkit-text-stroke: 1px #005aac;
 }.semibold{
