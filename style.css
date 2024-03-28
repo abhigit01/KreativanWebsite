@@ -5,7 +5,7 @@
 }
 body{
     height: 100vh;
-    /* width: 100%; */
+    width: 100%;
 }
 html{
     font-size: 16px;
@@ -304,6 +304,68 @@ html{
     border: 0.5px solid black;
 
 }
+.imagebox{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* background-color: yellow; */
+    gap: 2rem;
+    text-align: center;
+}
+.imagecolunm{
+    width: 100%;
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+    align-items: center;
+    /* padding: 0 60px; */
+    /* background-color: red; */
+    /* background-color: red; */
+}
+.hovwerimages{
+    width: 17rem;
+    height: 16rem;
+    background-color: grey;
+}
+.footer{
+    height: 40rem;
+    display: flex;
+    /* align-items: center; */
+    justify-content: space-evenly;
+    background-color: whitesmoke;
+    padding-top: 2rem;
+    padding-left: 10rem;
+    /* padding-right: 6rem; */
+   
+}
+.footerbox{
+    width: 20rem;
+    display: flex;
+    align-items: start;
+    /* justify-content: start; */
+    flex-direction: column;
+    text-align: center;
+    gap: 2rem;
+}
+.footerbox2{
+    width: 20rem;
+    display: flex;
+    align-items: start;
+    flex-direction: column;
+    text-align: center;
+    gap: 1.5rem;
+
+}
+/* .weightextra{
+    font-weight: 600;
+} */
+.footerbox p{
+    font-weight: 600;
+}
+.fontblue{
+    color: #00BBEE;
+}
 @media (max-width : 1200px) {
     html{
         font-size: 16px;
@@ -411,6 +473,12 @@ html{
     }
     .ourblog{
         margin-top: -5rem;
+    }
+    /* .imagecolunm{
+        flex-wrap: wrap;
+    } */
+    .footer{
+        flex-wrap: wrap;
     }
 
 }
