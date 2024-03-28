@@ -332,10 +332,10 @@ html{
     /* height: 40rem; */
     display: flex;
     /* align-items: center; */
-    justify-content: space-evenly;
+    justify-content: space-around;
     background-color: whitesmoke;
     padding-top: 2rem;
-    padding-left: 14rem;
+    /* padding-left: 14rem; */
     gap: 2rem;
    
 }
