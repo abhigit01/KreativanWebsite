@@ -226,6 +226,8 @@ html{
     height: 2rem;
     display: flex;
     justify-content: center;
+    align-items: center;
+    text-align: center;
     margin-top: 1rem;
 }
 .page2{
@@ -337,6 +339,7 @@ html{
         height: 40rem;
         right: 0;
     }
+    
     .page2{
         flex-wrap: wrap;
         width: 100%;
