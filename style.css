@@ -230,6 +230,13 @@ html{
     text-align: center;
     margin-top: 1rem;
 }
+.heading2 h1{
+    /* height: 6.875rem;
+    width: 71.875rem; */
+    text-align: center;
+    margin-top: 2rem;
+
+}
 .page2{
     display: flex;
     align-items: center;
@@ -402,6 +409,9 @@ html{
         padding-top: 4rem;
         padding-left: 8px;
         padding-right: 8px;
+    }
+    .heading2{
+
     }
 
 
