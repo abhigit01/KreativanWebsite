@@ -335,7 +335,8 @@ html{
     justify-content: space-evenly;
     background-color: whitesmoke;
     padding-top: 2rem;
-    padding-left: 10rem;
+    padding-left: 14rem;
+    gap: 2rem;
    
 }
 .footerbox{
