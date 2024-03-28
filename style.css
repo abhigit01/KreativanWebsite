@@ -346,7 +346,7 @@ html{
     /* justify-content: start; */
     flex-direction: column;
     text-align: center;
-    gap: 2rem;
+    gap: 1.5rem;
 }
 .footerbox2{
     width: 20rem;
