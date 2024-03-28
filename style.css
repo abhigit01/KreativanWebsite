@@ -302,10 +302,12 @@ html{
     .videobox{
         gap: 2rem;
         flex-direction: column;
+        align-items: center;
         height: 80rem;
     }
     .faqbox{
         position: static;
+        width: 80%;
         height: 40rem;
         left: 0;
         top: 0;
@@ -313,6 +315,7 @@ html{
     }
     .youtubevideo{
         position: static;
+        width: 80%;
         height: 40rem;
         right: 0;
     }
